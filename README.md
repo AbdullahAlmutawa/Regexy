@@ -9,8 +9,7 @@ Regexy is a fast, grep-powered CLI tool for scanning source code directories for
 
 ## Features
 - Language-specific scanning using regex patterns from JSON files
-- Supports `--secrets` for scanning sensitive keywords
-- Beautiful colored output in `[LANGUAGE] pattern = match (Line) path` format
+- Supports `--secrets` flag to scan for hardcoded credentials, tokens, etc..
 - Red highlight on the exact matched pattern
 - Exclude files by extension: `--exclude .js,.css`
 
