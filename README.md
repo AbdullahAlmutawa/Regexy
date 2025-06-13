@@ -7,7 +7,7 @@ Regexy is a fast, grep-powered CLI tool for scanning source code directories for
 ![Regexy](https://github.com/user-attachments/assets/15344db2-1c03-4c49-961b-1acf28e980b5)
 ---
 
-## 🔍 Features
+## Features
 - Language-specific scanning using regex patterns from JSON files
 - Supports `--secrets` for scanning sensitive keywords
 - Beautiful colored output in `[LANGUAGE] pattern = match (Line) path` format
@@ -26,7 +26,7 @@ go build -o regexy
 
 ---
 
-## 🚀 Usage
+## Usage
 ```bash
 ./regexy -L <language|all> <path> [--secrets] [--exclude .ext1,.ext2]
 ```
