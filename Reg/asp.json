@@ -1,0 +1,33 @@
+[
+    "\\bProcess\\.Start\\s*\\(",
+    "\\bAssembly\\.Load\\s*\\(",
+    "\\bAssembly\\.LoadFrom\\s*\\(",
+    "\\bAssembly\\.LoadFile\\s*\\(",
+    "\\bActivator\\.CreateInstance\\s*\\(",
+    "\\bType\\.InvokeMember\\s*\\(",
+    "\\bMethodInfo\\.Invoke\\s*\\(",
+    "\\bCompileAssemblyFromSource\\s*\\(",
+    "\\bEvaluateAsync\\s*\\(",
+    "\\bLoad\\s*\\(",
+  
+    "\\bReadAllText\\s*\\(",
+    "\\bWriteAllText\\s*\\(",
+    "\\bFile\\.Delete\\s*\\(",
+    "\\bCopy\\s*\\(",
+    "\\bMove\\s*\\(",
+    "\\bGetFiles\\s*\\(",
+    "\\bDirectory\\.Delete\\s*\\(",
+  
+    "\\bWriteFile\\s*\\(",
+    "\\bTransmitFile\\s*\\(",
+    "\\bTransfer\\s*\\(",
+    "\\bExecute\\s*\\(",
+    "\\bLoadControl\\s*\\(",
+  
+    "\\bXmlDocument\\.Load\\s*\\(",
+    "\\bXmlReader\\.Create\\s*\\(",
+  
+    "\\bDeserialize\\s*\\(",
+    "\\bReadObject\\s*\\("
+  ]
+  
